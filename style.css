@@ -1,0 +1,31 @@
+@charset "utf-8";
+/*Document css*/
+body{
+	font-family: 'relawy',sans-serif;
+}
+*{
+	padding: 0;
+	margin: 0;
+
+}
+.darkBG{
+	background-color: red;
+}
+.darkerBG{
+	background-color: blue;
+
+}
+.darkestBG{
+	background-color: green;
+}
+.navbar ul{
+	float: right;
+	margin-right: 15px;
+}
+.navbar ul li{
+	display: inline-block;
+	list-style-type: none;
+}
+.navbar-nav ul{
+	float: right;
+}
